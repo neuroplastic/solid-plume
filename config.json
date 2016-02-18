@@ -1,0 +1,11 @@
+{
+    "owners": ["https://neuroplastic.databox.me/profile/card#me"],
+    "title": "Plume",
+    "tagline": "Recursive handwriting",
+    "picture": "img/logo.svg",
+    "fadeText": true,
+    "showSources": true,
+    "cacheUnit": "days",
+    "defaultPath": "posts",
+    "postsURL": "https://neuroplastic.databox.me/Public/blog/posts/"
+}
