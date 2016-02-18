@@ -1,6 +1,6 @@
 {
-    "owners": ["https://neuroplastic.databox.me/profile/card#me"],
-    "title": "Plume",
+    "owner": "https://neuroplastic.databox.me/profile/card#me",
+    "title": "neurplastic",
     "tagline": "Recursive handwriting",
     "picture": "img/logo.svg",
     "fadeText": true,
